@@ -5,7 +5,7 @@ import io.probedock.client.annotations.ProbeTestClass;
 import io.probedock.jee.itf.model.Description;
 import io.probedock.rt.client.Configuration;
 import io.probedock.rt.client.Listener;
-import io.probedock.itf.AbstractItfListener;
+import io.probedock.client.itf.AbstractItfListener;
 
 /**
  * Listener to send results to RT Agent. This listener is a wrapping of the {@link

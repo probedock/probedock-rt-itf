@@ -1,7 +1,7 @@
 package io.probedock.rt.client.itf;
 
 import io.probedock.client.core.filters.FilterDefinition;
-import io.probedock.itf.ProbeDockAbstractTestResource;
+import io.probedock.client.itf.ProbeDockAbstractTestResource;
 import io.probedock.jee.itf.listeners.Listener;
 import io.probedock.rt.client.Configuration;
 import io.probedock.rt.client.Filter;
