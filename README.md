@@ -1,6 +1,6 @@
 # probedock-rt-itf
 
-> [Java EE Integration Test Framework](https://github.com/probedock/jee-itf) client for [Probe Dock RT](https://github.com/probedock/probedock-rt).
+> [Java EE Integration Test Framework](https://github.com/probedock/jee-itf) probe for [Probe Dock RT](https://github.com/probedock/probedock-rt).
 
 ## Usage
 
@@ -34,7 +34,7 @@
   }
   ```
   
-  **Remark**: If you are using the [Probe Dock ITF Client](https://github.com/probedock/probedock-itf), you should have to
+  **Remark**: If you are using the [Probe Dock ITF Probe](https://github.com/probedock/probedock-itf), you should have to
   replace the `extends ProbeDockAbstractTestResource` by `extends ProbeDockRTAbstractTestResource`. It will not be other
   changes.
 
